@@ -1,3 +1,5 @@
+# ARCHIVED THIS FORK
+
 # Azure Storage Blob SDK for Go (PREVIEW)
 [![GoDoc Widget]][GoDoc]
 
